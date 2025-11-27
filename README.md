@@ -69,7 +69,3 @@ Coursework: Web Development, Generative AI, Data Structures & Algorithms, DBMS, 
 💻 **GitHub:** [MaqddusButool-dev](https://github.com/MaqddusButool-dev)
 
 ---
-If you want, I can also:
-- Convert this into a full **portfolio homepage section**  
-- Build it in **React + Tailwind CSS**  
-- Make it **minimal**, **modern**, or **animated** — just tell me your style!
